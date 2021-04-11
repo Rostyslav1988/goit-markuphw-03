@@ -13,6 +13,9 @@
 body {
     font-family: 'Roboto', sans-serif;
     overflow-x: hidden;
+
+    width: 1600px;
+
     margin: 0 auto;
 }
 h1,
@@ -546,6 +549,7 @@ li {
 
 .pad {
     padding-bottom: 9px;
+
     padding-top: 9px;
 }
 .pad-foter-top {
