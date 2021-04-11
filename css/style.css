@@ -344,7 +344,7 @@ padding-top: 15px;
     line-height: 1.71;
     letter-spacing: 0.03em;
     color: var(--white);
-    padding-bottom: 9px;
+
 }
 .mail-footer {
     font-weight: 400;
@@ -352,7 +352,6 @@ padding-top: 15px;
     line-height: 1.71;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
-
 }
 .tel-footer {
     font-weight: 400;
@@ -448,14 +447,6 @@ font-style: normal;
 }
 .top-container {
     background-color: var(--background-white);
-}
-.adress-footer {
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 1.71;
-    letter-spacing: 0.03em;
-    color: var(--white);
-    padding-bottom: 9px;
 }
 
 .menu {
@@ -565,8 +556,4 @@ li {
 
 .pad {
     padding-bottom: 9px;
-    font-style: normal;
-    width: 1170px;
-    justify-content: space-between;
-    margin: 0 auto;
 }
