@@ -587,3 +587,8 @@ list-style-type: none;
 .box-shadow3 li {
 list-style-type: none;
 }
+.producta-padding {
+    padding: 20px 24px;
+    border: 1px solid #EEEEEE;
+    border-top: none;
+}
