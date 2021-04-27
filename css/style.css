@@ -539,18 +539,7 @@ li {
     padding: 0;
     margin-top: 50px;
 }
-.products p {
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 30px;
-    letter-spacing: 0.03em;
-    color: #757575;
-    padding-bottom: 20px;
-}
-.products p, h3 {
-    border: 1px solid #EEEEEE;
-    border-top: none;
-}
+
 .products h3 {
     font-weight: bold;
     font-size: 18px;
@@ -559,6 +548,7 @@ li {
     color: var(--color-text);
     border-bottom: none;
 }
+
 
 .btn-porfolio-margin {
 margin-right: 10px;
