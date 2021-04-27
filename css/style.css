@@ -469,7 +469,14 @@ margin-bottom: 50px;
 .marginn {
     margin-top: 30px;
 }
-
+.products p {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    color: var(--color-second-text);
+    margin-top: 4px;
+}
 .mail-footer {
     font-weight: 400;
     font-size: 14px;
